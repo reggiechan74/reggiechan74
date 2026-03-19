@@ -1,8 +1,8 @@
-# Reggie Chan
+# Reggie Chan, CFA, FRICS
 
-**Domain Expert Turned AI Builder** — 20+ years in real estate, infrastructure & finance (CFA, FRICS, PGCV) now building production AI systems at the intersection of domain expertise and modern tooling.
+**Commercial Real Estate Domain Expert Turned Agentic Engineer** — 20+ years in real estate, infrastructure & finance now building production AI systems at the intersection of domain expertise and modern tooling.
 
-I represent the transformation organizations are trying to achieve: a domain expert who builds sophisticated software through AI collaboration — and teaches others the reproducible path.
+I represent the transformation organizations are trying to achieve: a domain expert who builds sophisticated software through AI pair-programming to deliver solutions — and teaches others the reproducible path.
 
 ---
 
