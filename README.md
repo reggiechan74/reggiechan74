@@ -2,13 +2,13 @@
 
 **Commercial Real Estate Domain Expert Turned Agentic Engineer.** 20+ years in real estate, infrastructure, and finance, now building production AI systems at the intersection of domain expertise and modern tooling.
 
-I represent the transformation organizations are trying to achieve: a domain expert who builds sophisticated software through AI pair-programming to deliver real solutions, and teaches others the reproducible path.
+I represent the transformation organizations are trying to achieve: a domain expert who builds production software through AI pair-programming to deliver real solutions, and teaches others the reproducible path.
 
 ---
 
 ### What I Build (Public)
 
-Production systems solving real business problems through strategic AI partnership. Working software with comprehensive testing, documentation, and measurable impact.
+Production systems solving real business problems through strategic AI partnership. Working software with test suites (627 on the largest repo), documentation, and measurable impact.
 
 | Repository | What It Does | Scale |
 |---|---|---|
@@ -24,19 +24,19 @@ Production systems solving real business problems through strategic AI partnersh
 
 The strongest pieces of the portfolio are private. Available for live demo in consulting, interview, or partnership contexts.
 
-**[chan-genealogy-waihai](https://reggiechan74.github.io/chan-genealogy-waihai/)** — *Yuhu Chen Clan Genealogy Knowledge Graph*. Multi-edition digitization, transcription, translation, and historical reconstruction of the Waihai branch of the Yuhu Chen clan (玉湖陳氏族譜). Combines four direct manuscript witnesses (1416 Guanshutang, 1971 microfilm, 1992 Putian, family copy) into a SQLite knowledge graph of 4,811 persons across 29 generations, with a master lineage table reaching 123 generations from the Yellow Emperor. 33-check validation suite; pre-registered statistical program with a 7.2× headline finding on credentialed-father transmission. 1,288 commits, 269k+ LOC, four-edition cross-verification, Harvard CBDB integration. **Published site:** [reggiechan74.github.io/chan-genealogy-waihai](https://reggiechan74.github.io/chan-genealogy-waihai/)
+**[chan-genealogy-waihai](https://reggiechan74.github.io/chan-genealogy-waihai/)** · *Yuhu Chen Clan Genealogy Knowledge Graph*. Multi-edition digitization, transcription, translation, and historical reconstruction of the Waihai branch of the Yuhu Chen clan (玉湖陳氏族譜). Combines four direct manuscript witnesses (1416 Guanshutang, 1971 microfilm, 1992 Putian, family copy) into a SQLite knowledge graph of 4,811 persons across 29 generations, with a master lineage table reaching 123 generations from the Yellow Emperor. 33-check validation suite; pre-registered statistical program with a 7.2× headline finding on credentialed-father transmission. 1,288 commits, 269k+ LOC, four-edition cross-verification, Harvard CBDB integration. **Published site:** [reggiechan74.github.io/chan-genealogy-waihai](https://reggiechan74.github.io/chan-genealogy-waihai/)
 
-**workforce-optimizer** — *Original Consulting IP as Software*. The Consolidated Human Impact Framework (CHIF) is an original 132K-word mathematical methodology I developed from first principles, formalized in a publishable paper, verified by a companion Python codebase, and productionized as TypeScript with an MCP server interface. Multi-rubric scoring (three independent 100-point rubrics), 6-phase greedy constraint solver, 6 behavioral archetypes, capability budget system, deterministic scenario generation. 7,744 LOC TypeScript across 20 modules, 277 passing tests, 1:1 module coverage.
+**workforce-optimizer** · *Original Consulting IP as Software*. The Consolidated Human Impact Framework (CHIF) is an original 132K-word mathematical methodology I developed from first principles, formalized in a publishable paper, verified by a companion Python codebase, and productionized as TypeScript with an MCP server interface. Multi-rubric scoring (three independent 100-point rubrics), 6-phase greedy constraint solver, 6 behavioral archetypes, capability budget system, deterministic scenario generation. 7,744 LOC TypeScript across 20 modules, 277 passing tests, 1:1 module coverage.
 
-**CareerDebug** — *The FICO Score for Careers*. Transforms subjective career narratives into objective 4D position measurements mapping 147+ billion unique career configurations (5 tracks × 7 stages × 729 SOE combinations × 56 domain sub-stages). 12-stage diagnostic pipeline, manifest-driven automation across 20 bug categories and 52 archetypes, parallel agent execution with 82% token reduction. 133 commits, 3,025 files, 101 Python scripts, 843 markdown documentation files.
+**CareerDebug** · *The FICO Score for Careers*. Transforms subjective career narratives into objective 4D position measurements mapping 147+ billion unique career configurations (5 tracks × 7 stages × 729 SOE combinations × 56 domain sub-stages). 12-stage diagnostic pipeline, manifest-driven automation across 20 bug categories and 52 archetypes, parallel agent execution with 82% token reduction. 133 commits, 3,025 files, 101 Python scripts, 843 markdown documentation files.
 
-**ontario-gis-intel** — *Ontario CRE Open Data Query Engine*. Unified query engine across 406 dataset endpoints from 56 government open data sources (50 municipalities plus provincial and federal overlays). Four query protocols (ArcGIS REST, CKAN with PostGIS, GTFS, OpenStreetMap Overpass), three spatial query strategies, nine analytical frameworks for CRE intelligence. Custom Transverse Mercator coordinate projection in pure-Python stdlib, zero external dependencies. 31 commits in 12 hours, 21 Python scripts, 10,171 LOC.
+**ontario-gis-intel** · *Ontario CRE Open Data Query Engine*. Unified query engine across 406 dataset endpoints from 56 government open data sources (50 municipalities plus provincial and federal overlays). Four query protocols (ArcGIS REST, CKAN with PostGIS, GTFS, OpenStreetMap Overpass), three spatial query strategies, nine analytical frameworks for CRE intelligence. Custom Transverse Mercator coordinate projection in pure-Python stdlib, zero external dependencies. 31 commits in 12 hours, 21 Python scripts, 10,171 LOC.
 
 Plus 14 additional private systems covering CRM contact intelligence (16 tools, FTS5 + vector search), strategic school analytics (5-agent VVC research pipeline), CUSPAP appraisal automation (23 government APIs), native macOS OCR review (SwiftUI, local-first), brand identity automation (213 tests, Playwright rendering), multi-plugin creative methodology marketplaces, multi-agent orchestration (23 agents), corridor valuation, RICS APC assessment, options analysis, and the four-tier Tenebrus CRE AI training curriculum.
 
 ---
 
-### cc-plugins — Claude Code Plugin Marketplace
+### cc-plugins · Claude Code Plugin Marketplace
 
 [**cc-plugins**](https://github.com/reggiechan74/cc-plugins) is a 13-plugin marketplace installable via `claude plugin marketplace add reggiechan74/cc-plugins`. Each plugin ships with commands, agents, skills, and/or hooks following Claude Code's plugin architecture.
 
@@ -74,7 +74,7 @@ Plus 14 additional private systems covering CRM contact intelligence (16 tools, 
 
 ### By the Numbers
 
-`3,000+ commits` · `25 production systems` · `TypeScript, Python, Swift, Bash` · `13 plugins published` · `20 research engine presets` · `277 tests on the largest single repo` · `147B+ career configurations modelled` · `4,811 persons in the genealogy knowledge graph` · `406 government data endpoints unified`
+`3,000+ commits` · `25 production systems` · `TypeScript, Python, Swift, Bash` · `13 plugins published` · `20 research engine presets` · `627 tests on the largest single repo` · `147B+ career configurations modelled` · `4,811 persons in the genealogy knowledge graph` · `406 government data endpoints unified`
 
 ---
 
