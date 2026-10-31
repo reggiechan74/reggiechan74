@@ -17,6 +17,7 @@ Production systems solving real business problems through strategic AI partnersh
 | [021-CRE-150](https://github.com/reggiechan74/021-CRE-150) | Eight-plugin Claude Cowork toolkit shipped to participants of the CRE-150 workshop. CAM reconciliation, MCDA sales/lease comparison, lease abstraction (258 fields), roof-tender review, tenant credit, effective-rent analyzer. The only public reference implementation of the Cowork subagent dispatch pattern. | 96 commits, 14,874 LOC Python |
 | [deep-research-engine-creator](https://github.com/reggiechan74/deep-research-engine-creator) | A meta-plugin that generates domain-specialized research engines. Wizard interview produces a complete 8-stage research pipeline with post-reporting verification, validation, and correction. 20 domain presets spanning CRE, cybersecurity, healthcare, OSINT, legal, geopolitical risk, ESG. | 129 commits, ~28,600 LOC |
 | [JobOps](https://github.com/reggiechan74/JobOps) | Intelligence-driven career management as a two-plugin marketplace (jobops + jobops-ic) for Claude Code and Codex. 47 skills and 17 agents covering resume development, interview prep, and independent consulting, with distributed OSINT across 6 parallel specialists (corporate, legal, leadership, compensation, culture, market). Assessment-first methodology filters weak-fit applications before any resume is written. | 314 commits, v2.16.0 |
+| [course-curriculum-creator](https://github.com/reggiechan74/course-curriculum-creator) | Backward-design curriculum builder for 1-2 day workshops using Bloom's taxonomy. Needs analysis through delivery: objectives, rubrics, lesson plans, learner profiles, pre-work, spaced practice, Kirkpatrick evaluation, virtual adaptation, and course series design (101/201/301/401). Installable on its own via `claude plugin marketplace add reggiechan74/course-curriculum-creator`. | 23 commands, 2 agents, 4 skills, v1.1.0 |
 
 ---
 
@@ -38,12 +39,11 @@ Plus 14 additional private systems covering CRM contact intelligence (16 tools, 
 
 ### cc-plugins · Claude Code Plugin Marketplace
 
-[**cc-plugins**](https://github.com/reggiechan74/cc-plugins) is a 13-plugin marketplace installable via `claude plugin marketplace add reggiechan74/cc-plugins`. Each plugin ships with commands, agents, skills, and/or hooks following Claude Code's plugin architecture.
+[**cc-plugins**](https://github.com/reggiechan74/cc-plugins) is a 12-plugin marketplace installable via `claude plugin marketplace add reggiechan74/cc-plugins`. Each plugin ships with commands, agents, skills, and/or hooks following Claude Code's plugin architecture.
 
 | Plugin | What It Does |
 |---|---|
 | **code-coherence** | Multi-agent code verification. Four specialized critics (planner, code, security, domain) catch defects through a team-of-rivals architecture. |
-| **course-curriculum-creator** | Backward design curriculum builder using Bloom's taxonomy. 10 commands, 2 autonomous agents, template system for workshop variants. |
 | **d3-visualizations** | D3.js chart generation with 173 gallery templates across all standard chart types and multiple output formats. |
 | **google-workspace-mcp** | Gmail, Google Calendar, and Contacts integration via OAuth 2.0 MCP server. |
 | **kids-camp-planner** | Family camp logistics. Budget tracking, schedule optimization, provider research, 12+ Ontario school calendars, commute matrix. |
